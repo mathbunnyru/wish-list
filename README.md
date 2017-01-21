@@ -27,14 +27,12 @@
   - [Red](https://www.amazon.co.uk/dp/B009NT0I06)
   - [Abbey Road](https://www.amazon.co.uk/dp/B0041KVZ1I)
   - [Led Zeppelin I](https://www.amazon.co.uk/dp/B00IXHBMLS)
-  - [Ok Computer](https://www.amazon.co.uk/dp/B01F0XPTIY)
   - [A Moon Shaped Pool](https://www.amazon.co.uk/dp/B01FDF12UI)
   <!-- - [](https://www.amazon.co.uk/dp/) -->
 - CD диски (тоже стоит списаться):
-  - [x (Wembley Edition)](https://www.amazon.co.uk/dp/B016V8QFTE)
-  - [Whispers](https://www.amazon.co.uk/dp/B00J8GIY6E)
+  - пусто
 - книги:
-  - [Ed Sheeran: A Visual Journey](https://www.amazon.co.uk/dp/1844037940)
+  - пока ничего
 - одежду (стоит картинку мне скинуть, у меня этого добра много, советую магазин [Asos](http://www.asos.com/ru/men/?r=1)):
   - поло Lacoste (XL, Classic Fit)
   - свитер от них же
