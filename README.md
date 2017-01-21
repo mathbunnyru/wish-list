@@ -44,6 +44,7 @@
   - [Schiit SYS](http://schiit.com/products/sys)
   - [Bose QuietComfort 35 **silver**](https://www.amazon.com/dp/B01E3SNO1G)
 - из еды:
+  - кофе (хороший сорт, для рожковой кофемашины, недавняя средняя обжарка, неароматизированный, можно [отсюда](https://www.torrefacto.ru/catalog/roasted/stepenobzharki-srednyaya/filter/))
   - пармезан из Италии, санкционочку
   - бутылку *привезённого* вина на ваш выбор.
     Я её не выпью так сразу, но подарку обрадуюсь))
