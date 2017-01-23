@@ -12,6 +12,7 @@
 
 Ну так вот:
 
+<!-- - [](https://www.amazon.co.uk/dp/) -->
 - если вы что-то сделаете сами, от этого я буду в восторге
 - билеты в театр (я почти ни на чём не был, так что можно всё, что круто)
 - билеты на концерт (возможно, стоит спросить)
@@ -20,19 +21,12 @@
   - конечно что-то на ваш вкус.
     Лучше на двух тяжёлых пластинках, если есть deluxe издание, то его:)
     Если музыка нерусская, то **не** надо российское издание!))
-  - [All The Little Lights](https://www.amazon.co.uk/dp/B00ANWQ1H6)
   - [Whispers & Whispers II](http://passenger.limitedrun.com/products/547261-whispers-whispers-ii-limited-edition-double-gatefold-vinyl-box-set?view=f15250)
-  - [Brave Enough](https://www.amazon.co.uk/dp/B01HOCUMYK)
-  - [The Ultimate Collection](https://www.amazon.co.uk/dp/B01LZV5G7U)
-  - [Red](https://www.amazon.co.uk/dp/B009NT0I06)
-  - [Abbey Road](https://www.amazon.co.uk/dp/B0041KVZ1I)
-  - [Led Zeppelin I](https://www.amazon.co.uk/dp/B00IXHBMLS)
-  - [A Moon Shaped Pool](https://www.amazon.co.uk/dp/B01FDF12UI)
-  <!-- - [](https://www.amazon.co.uk/dp/) -->
+  - [Wish List](https://www.amazon.co.uk/gp/registry/wishlist/2GU1JCJMF50B0/) на Амазоне
 - CD диски (тоже стоит списаться):
   - пусто
 - книги:
-  - пока ничего
+  - Наглядную математическую статистику Лагутина (её очень тяжело найти)
 - одежду (стоит картинку мне скинуть, у меня этого добра много, советую магазин [Asos](http://www.asos.com/ru/men/?r=1)):
   - поло Lacoste (XL, Classic Fit)
   - свитер от них же
