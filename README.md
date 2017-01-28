@@ -24,7 +24,7 @@
   - [Whispers & Whispers II](http://passenger.limitedrun.com/products/547261-whispers-whispers-ii-limited-edition-double-gatefold-vinyl-box-set?view=f15250)
   - [Wish List](https://www.amazon.co.uk/gp/registry/wishlist/2GU1JCJMF50B0/) на Амазоне
 - CD диски (тоже стоит списаться):
-  - пусто
+  - иногда что-то проскакивает в виш-листе на Амазоне
 - книги:
   - Наглядную математическую статистику Лагутина (её очень тяжело найти)
 - одежду (стоит картинку мне скинуть, у меня этого добра много, советую магазин [Asos](http://www.asos.com/ru/men/?r=1)):
@@ -38,8 +38,9 @@
 - из техники (это жутко дорого, прикольно, мне безумно понравится, можно пропустить):
   - [Schiit SYS](http://schiit.com/products/sys)
   - [Bose QuietComfort 35 **silver**](https://www.amazon.com/dp/B01E3SNO1G)
-- из еды:
+- из еды и около:
   - кофе (хороший сорт, для рожковой кофемашины, недавняя средняя обжарка, неароматизированный, можно [отсюда](https://www.torrefacto.ru/catalog/roasted/stepenobzharki-srednyaya/filter/))
+  - металлический тамблер из старбакса, аккуратный и красивый :)
   - пармезан из Италии, санкционочку
   - бутылку *привезённого* вина на ваш выбор.
     Я её не выпью так сразу, но подарку обрадуюсь))
