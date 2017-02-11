@@ -21,7 +21,6 @@
   - конечно что-то на ваш вкус.
     Лучше на двух тяжёлых пластинках, если есть deluxe издание, то его:)
     Если музыка нерусская, то **не** надо российское издание!))
-  - [Whispers & Whispers II](http://passenger.limitedrun.com/products/547261-whispers-whispers-ii-limited-edition-double-gatefold-vinyl-box-set?view=f15250)
   - [Wish List](https://www.amazon.co.uk/gp/registry/wishlist/2GU1JCJMF50B0/) на Амазоне
 - CD диски (тоже стоит списаться):
   - иногда что-то проскакивает в виш-листе на Амазоне
