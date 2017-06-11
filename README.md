@@ -16,7 +16,7 @@
 <!-- - [](https://www.amazon.co.uk/dp/) -->
 - если вы что-то сделаете сами, от этого я буду в восторге
 - билеты в театр (я почти ни на чём не был, так что можно всё, что круто)
-- [Guitar Hero Live PS4](http://www.dns-shop.ru/product/e023b402625c3361/gitara-besprovodnaa-guitar-hero--igra-dla-ps4-guitar-hero-live/)
+- [Guitar Hero Live Supreme Party Edition (PS4)](https://www.shop.buka.ru/game/Guitar_Hero_Live_Supreme_Party_Edition___Gitary___PS4_)
 - билеты на концерт (возможно, стоит спросить)
 - прыжок с парашютом
 - полёт в аэротрубе
