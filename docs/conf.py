@@ -33,6 +33,8 @@ html_static_path = ['_static']
 # sphinx-quickstart --project "wish-list" --author "Ayaz Salikhov" -v "latest" -r "latest" -l en --no-sep --no-makefile --no-batchfile
 # These are custom options for this project
 
+html_theme = "nature"
+
 extensions = ["myst_parser"]
 
 # MyST configuration reference: https://myst-parser.readthedocs.io/en/latest/configuration.html
