@@ -1,0 +1,54 @@
+name: Build Sphinx Documentation and check links
+
+on:
+  schedule:
+    # Weekly, at 03:00 on Monday UTC
+    - cron: "0 3 * * 1"
+  pull_request:
+    paths:
+      - ".github/workflows/sphinx.yml"
+      - "Makefile"
+
+      - "docs/**"
+
+      # Thse files are also rendered as docs pages
+      - "README.md"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/sphinx.yml"
+      - "Makefile"
+
+      - "docs/**"
+
+      # Thse files are also rendered as docs pages
+      - "README.md"
+  workflow_dispatch:
+
+jobs:
+  build-docs:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repo ⚡️
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set Up Python 🐍
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+
+      - name: Install Doc Dependencies 📦
+        run: |
+          pip install --upgrade pip
+          pip install --upgrade -r docs/requirements.txt
+
+      - name: Build Documentation 📖
+        run: make docs
+
+      - name: Check Documentation URLs 🔗
+        run: make linkcheck-docs || make linkcheck-docs
