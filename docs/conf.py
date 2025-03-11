@@ -32,3 +32,5 @@ html_static_path = ['_static']
 # The file above was generated using sphinx 8.2.3 with this command:
 # sphinx-quickstart --project "wish-list" --author "Ayaz Salikhov" -v "latest" -r "latest" -l en --no-sep --no-makefile --no-batchfile
 # These are custom options for this project
+
+extensions = ["myst_parser"]
