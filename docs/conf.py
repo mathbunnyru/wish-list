@@ -39,3 +39,5 @@ extensions = ["myst_parser"]
 
 # MyST configuration reference: https://myst-parser.readthedocs.io/en/latest/configuration.html
 myst_heading_anchors = 3
+
+html_static_path = []
