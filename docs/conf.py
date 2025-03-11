@@ -34,3 +34,6 @@ html_static_path = ['_static']
 # These are custom options for this project
 
 extensions = ["myst_parser"]
+
+# MyST configuration reference: https://myst-parser.readthedocs.io/en/latest/configuration.html
+myst_heading_anchors = 3
